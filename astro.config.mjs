@@ -37,4 +37,6 @@ export default defineConfig({
     },
     extendDefaultPlugins: true
   },
+
+  base: '/RISCLab/', // for dartmouth server
 });
