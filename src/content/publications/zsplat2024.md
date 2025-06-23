@@ -1,5 +1,5 @@
 ---
-title: "AONeuS: A neural rendering framework for acoustic-optical sensor fusion"
+title: "Z-Splat: Z-Axis Gaussian Splatting for Camera-Sonar Fusion"
 date: 2024-11-01
 image: "@assets/publications/teasers/z-splat.webp"
 authors:
